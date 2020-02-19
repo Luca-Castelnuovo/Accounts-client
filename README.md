@@ -1,4 +1,4 @@
-# OAuth 2.0 Client
+# [DEPRECATED] OAuth 2.0 Client
 
 This package makes it simple to integrate your application with my [OAuth 2.0](https://accounts.lucacastelnuovo.nl) service.
 
